@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Saved models (regenerate with notebook 02)
+*.joblib
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets
+.env
+
+# Power BI temp/cache files (keep the .pbix if you want to share it)
+*.pbix.tmp
