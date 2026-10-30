@@ -128,4 +128,4 @@ pytest -v
 Python, pandas, NumPy, scikit-learn, SHAP, matplotlib, pytest, Jupyter, Power BI (planned)
 
 ## Author
-Siddhesh Kadam | [LinkedIn](https://linkedin.com/in/siddhesh12) | [GitHub](https://github.com/Siddhesh1206)
+Siddhesh Kadam | [LinkedIn](https://linkedin.com/in/siddheshkadam12) | [GitHub](https://github.com/Siddhesh1206)
